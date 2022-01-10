@@ -93,4 +93,11 @@ function teste(){
     
 }
 
+function mudaParagrafo(){
+    var p = document.getElementById('p1').style.color='red'
+
+}
+function branco(){
+    document.getElementById('p1').style.color="black"
+}
 
